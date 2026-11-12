@@ -1,0 +1,6 @@
+{
+  "name": "FraudGuard AI - Banking Fraud Detection System",
+  "description": "Machine Learning and Deep Learning-based banking fraud detection system powered by Artificial Neural Networks (ANN) and Random Forest classifiers with real-time transaction scoring and forensic reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
